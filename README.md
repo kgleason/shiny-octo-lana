@@ -1,2 +1,2 @@
 # shiny-octo-lana
-Test Repo
+This is a repo for testing GitHub Push notifications to a deployment service
